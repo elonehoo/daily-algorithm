@@ -1,4 +1,4 @@
-package com.algorithm.year2021.march.twentyFive.code;
+package com.algorithm.year2021.march.a0twentyFive.code;
 
 /**
  * 删除排序链表中的重复元素 II
@@ -28,5 +28,20 @@ class Solution {
            }
         }
         return node.next;
+    }
+
+    public ListNode deleteDuplicates_2(ListNode head) {
+        if (head == null || head.next == null){
+            return head;
+        }
+        if (head.val != head.next.val){
+            head.next = deleteDuplicates_2(head.next);
+            return head;
+        }else {
+            while (head.next != null && head.val == head.next.val) {
+                head = head.next;
+            }
+            return deleteDuplicates_2(head.next);
+        }
     }
 }

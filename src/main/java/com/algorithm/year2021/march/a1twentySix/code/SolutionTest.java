@@ -1,4 +1,4 @@
-package com.algorithm.year2021.march.twentySix.code;
+package com.algorithm.year2021.march.a1twentySix.code;
 
 public class SolutionTest {
     public static void main(String[] args) {

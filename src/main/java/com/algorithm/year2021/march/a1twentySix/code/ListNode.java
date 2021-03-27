@@ -1,27 +1,24 @@
-package com.algorithm.year2021.march.twentyFive.code;
+package com.algorithm.year2021.march.a1twentySix.code;
 
 /**
- * 链表
+ * 单链表的定义
  * @author HCY
- * @since 2021/3/25 下午8:26
-*/
+ * @since 2021/3/26 下午7:26
+ */
 public class ListNode {
 
     int val;
 
     ListNode next;
 
-    ListNode() {
-
-    }
+    ListNode() {}
 
     ListNode(int val) {
         this.val = val;
     }
 
     ListNode(int val, ListNode next) {
-        this.val = val;
-        this.next = next;
+        this.val = val; this.next = next;
     }
 
     @Override

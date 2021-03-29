@@ -5,3 +5,4 @@
 - [x] 2021-3-26 [删除排序链表中的重复元素](https://xiaoxunyao.xyz/archives/algorithm-2021-3-26)
 - [x] 2021-3-27 [旋转链表](https://xiaoxunyao.xyz/archives/algorithm-2021-3-27)
 - [x] 2021-3-28 [二叉搜索树迭代器](https://xiaoxunyao.xyz/archives/algorithm-2021-3-28)
+- [x] 2021-3-29 [颠倒二进制](https://xiaoxunyao.xyz/archives/algorithm-2021-3-29)

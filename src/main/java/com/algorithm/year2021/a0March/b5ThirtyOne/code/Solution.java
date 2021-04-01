@@ -1,4 +1,4 @@
-package com.algorithm.year2021.march.a5ThirtyOne.code;
+package com.algorithm.year2021.a0March.b5ThirtyOne.code;
 
 import java.util.ArrayList;
 import java.util.Arrays;

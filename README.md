@@ -9,3 +9,4 @@
 - [x] 2021-3-31 [子集 II](https://xiaoxunyao.xyz/archives/algorithm-2021-3-31)
 - [x] 2021-4-1 [笨阶乘](https://xiaoxunyao.xyz/archives/httpsxiaoxunyaoxyzarchivesalgorithm-2021-4-01)
 - [x] 2021-4-2 [直方图的水量](https://xiaoxunyao.xyz/archives/algorithm-2021-4-02)
+- [x] 2021-4-3 [最长公共子序列](https://xiaoxunyao.xyz/archives/algorithm-2021-4-03)

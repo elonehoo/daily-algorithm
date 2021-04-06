@@ -14,3 +14,4 @@
 - [x] 2021-4-3 [最长公共子序列](https://xiaoxunyao.xyz/archives/algorithm-2021-4-03)
 - [x] 2021-4-4 [森林中的兔子](https://xiaoxunyao.xyz/archives/algorithm-2021-4-04)
 - [x] 2021-4-5 [合并两个有序数组](https://xiaoxunyao.xyz/archives/algorithm-2021-4-05)
+- [x] 2021-4-6 [删除有序数组中的重复项 II](https://xiaoxunyao.xyz/archives/algorithm-2021-4-06)

@@ -16,3 +16,4 @@
 - [x] 2021-4-5 [合并两个有序数组](https://xiaoxunyao.xyz/archives/algorithm-2021-4-05)
 - [x] 2021-4-6 [删除有序数组中的重复项 II](https://xiaoxunyao.xyz/archives/algorithm-2021-4-06)
 - [x] 2021-4-7 [搜索旋转排序数组 II](https://xiaoxunyao.xyz/archives/algorithm-2021-4-07)
+- [x] 2021-4-8 [寻找旋转排序数组中的最小值](https://xiaoxunyao.xyz/archives/algorithm-2021-4-08)

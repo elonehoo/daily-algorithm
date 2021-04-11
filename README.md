@@ -19,3 +19,4 @@
 - [x] 2021-4-8 [寻找旋转排序数组中的最小值](https://xiaoxunyao.xyz/archives/algorithm-2021-4-08)
 - [x] 2021-4-9 [寻找旋转排序数组中的最小值II](https://xiaoxunyao.xyz/archives/algorithm-2021-4-09)
 - [x] 2021-4-10 [丑数](https://xiaoxunyao.xyz/archives/algorithm-2021-4-10)
+- [x] 2021-4-11 [丑数II](https://xiaoxunyao.xyz/archives/algorithm-2021-4-11)

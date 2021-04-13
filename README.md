@@ -21,3 +21,4 @@
 - [x] 2021-4-10 [丑数](https://xiaoxunyao.xyz/archives/algorithm-2021-4-10)
 - [x] 2021-4-11 [丑数II](https://xiaoxunyao.xyz/archives/algorithm-2021-4-11)
 - [x] 2021-4-12 [最大数](https://xiaoxunyao.xyz/archives/algorithm-2021-4-12)
+- [x] 2021-4-13 [二叉搜索树节点最小距离](https://xiaoxunyao.xyz/archives/algorithm-2021-4-13)

@@ -24,3 +24,6 @@
 - [x] 2021-4-13 [二叉搜索树节点最小距离](https://xiaoxunyao.xyz/archives/algorithm-2021-4-13)
 - [ ]  2021-4-14 [实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)  
 - [x] 2021-4-15 [打家劫舍 II](https://xiaoxunyao.xyz/archives/algorithm-2021-4-15)
+- [ ] 2021-4-16 [扰乱字符串](https://leetcode-cn.com/problems/scramble-string/)
+- [ ] 2021-4-17 [存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/)
+- [x] 2021-4-18 [删除有序数组中的重复项](https://xiaoxunyao.xyz/archives/algorithm-2021-4-18)

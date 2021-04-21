@@ -29,3 +29,4 @@
 - [x] 2021-4-18 [删除有序数组中的重复项](https://xiaoxunyao.xyz/archives/algorithm-2021-4-18)
 - [x] 2021-4-19 [移除元素](https://xiaoxunyao.xyz/archives/algorithm-2021-4-19)
 - [x] 2021-4-20 [实现 strStr()](https://xiaoxunyao.xyz/archives/algorithm-2021-4-20)
+- [x] 2021-4-21 [解码方法](https://xiaoxunyao.xyz/archives/algorithm-2021-4-21)

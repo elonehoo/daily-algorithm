@@ -32,3 +32,5 @@
 - [x] 2021-4-21 [解码方法](https://xiaoxunyao.xyz/archives/algorithm-2021-4-21)
 - [x] 2021-4-22 [矩形区域不超过 K 的最大数值和](https://xiaoxunyao.xyz/archives/algorithm-2021-4-22)
 - [x] 2021-4-23 [最大整除子集](https://xiaoxunyao.xyz/archives/algorithm-2021-4-23)
+- [x] 2021-4-24 [组合总和 Ⅳ](https://leetcode-cn.com/problems/combination-sum-iv/)
+- [x] 2021-4-25 [递增顺序搜索树]()

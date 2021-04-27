@@ -22,7 +22,7 @@
 - [x] 2021-4-11 [丑数II](https://github.com/xiaoxunyao/daily-algorithm/blob/master/src/main/java/com/algorithm/year2021/a1April/b10Eleven/md/%E6%AF%8F%E6%97%A5%E7%AE%97%E6%B3%95-%E4%B8%91%E6%95%B0II.md)
 - [x] 2021-4-12 [最大数](https://github.com/xiaoxunyao/daily-algorithm/blob/master/src/main/java/com/algorithm/year2021/a1April/b11Twelve/md/%E6%AF%8F%E6%97%A5%E7%AE%97%E6%B3%95-%E4%B8%91%E6%95%B0II.md)
 - [x] 2021-4-13 [二叉搜索树节点最小距离](https://github.com/xiaoxunyao/daily-algorithm/blob/master/src/main/java/com/algorithm/year2021/a1April/b12Thirteen/md/%E6%AF%8F%E6%97%A5%E7%AE%97%E6%B3%95-%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E8%8A%82%E7%82%B9%E6%9C%80%E5%B0%8F%E8%B7%9D%E7%A6%BB.md)
-- [ ]  2021-4-14 [实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)  
+- [ ] 2021-4-14 [实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)  
 - [x] 2021-4-15 [打家劫舍 II](https://github.com/xiaoxunyao/daily-algorithm/blob/master/src/main/java/com/algorithm/year2021/a1April/b13Fourteen/md/%E6%AF%8F%E6%97%A5%E7%AE%97%E6%B3%95-%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D%20II.md)
 - [ ] 2021-4-16 [扰乱字符串](https://leetcode-cn.com/problems/scramble-string/)
 - [ ] 2021-4-17 [存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/)

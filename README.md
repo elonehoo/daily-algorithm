@@ -44,4 +44,4 @@
 - [x] 2021-5-2 [砖墙](https://github.com/xiaoxunyao/daily-algorithm/blob/master/src/main/java/com/algorithm/year2021/a2May/b02Two/md/%E6%AF%8F%E6%97%A5%E7%AE%97%E6%B3%95-%E7%A0%96%E5%A2%99.md)
 - [x] 2021-5-3 [整数反转](https://github.com/xiaoxunyao/daily-algorithm/blob/master/src/main/java/com/algorithm/year2021/a2May/b03Three/md/%E6%AF%8F%E6%97%A5%E7%AE%97%E6%B3%95-%E6%95%B4%E6%95%B0%E5%8F%8D%E8%BD%AC.md)
 - [ ] 2021-5-4 [粉刷房子 III](https://github.com/xiaoxunyao/daily-algorithm/blob/master/src/main/java/com/algorithm/year2021/a2May/b04/md/%E6%AF%8F%E6%97%A5%E7%AE%97%E6%B3%95-%E7%B2%89%E5%88%B7%E6%88%BF%E5%AD%90%20III.md)
-- [ ] 2021-5-5 [删除并获得点数]()
+- [ ] 2021-5-5 [删除并获得点数](https://github.com/xiaoxunyao/daily-algorithm/blob/master/src/main/java/com/algorithm/year2021/a2May/b05/md/%E6%AF%8F%E6%97%A5%E7%AE%97%E6%B3%95-%E5%88%A0%E9%99%A4%E5%B9%B6%E8%8E%B7%E5%BE%97%E7%82%B9%E6%95%B0.md)

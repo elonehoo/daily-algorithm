@@ -49,3 +49,8 @@
 - [ ] 2021-5-7 [数组异或操作](https://github.com/xiaoxunyao/daily-algorithm/blob/master/src/main/java/com/algorithm/year2021/a2May/b07/md/%E6%AF%8F%E6%97%A5%E7%AE%97%E6%B3%95-%E6%95%B0%E7%BB%84%E5%BC%82%E6%88%96%E6%93%8D%E4%BD%9C.md)
 - [ ] 2021-5-8 [完成所有工作的最短时间](https://github.com/xiaoxunyao/daily-algorithm/blob/master/src/main/java/com/algorithm/year2021/a2May/b08/md/%E6%AF%8F%E6%97%A5%E7%AE%97%E6%B3%95-%E5%AE%8C%E6%88%90%E6%89%80%E6%9C%89%E5%B7%A5%E4%BD%9C%E7%9A%84%E6%9C%80%E7%9F%AD%E6%97%B6%E9%97%B4.md)
 - [x] 2021-5-9 [制作 m 束花所需的最少天数](https://github.com/xiaoxunyao/daily-algorithm/blob/master/src/main/java/com/algorithm/year2021/a2May/b09/md/%E6%AF%8F%E6%97%A5%E7%AE%97%E6%B3%95-%E5%88%B6%E4%BD%9C%20m%20%E6%9D%9F%E8%8A%B1%E6%89%80%E9%9C%80%E7%9A%84%E6%9C%80%E5%B0%91%E5%A4%A9%E6%95%B0.md)
+- [ ] 2021-5-10 [叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/)
+- [ ] 2021-5-11 [解码异或后的排列](https://leetcode-cn.com/problems/decode-xored-permutation/)
+- [ ] 2021-5-12 [子数组异或查询](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/)
+- [ ] 2021-5-13 [停在原地的方案数](https://leetcode-cn.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/)
+- [x] 2021-5-14 [整数转罗马数字]()
